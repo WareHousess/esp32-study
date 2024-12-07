@@ -1,0 +1,22 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch test
+# Your branch is ahead of 'origin/test' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	deleted:    hello_world/.devcontainer/Dockerfile
+#	deleted:    hello_world/.devcontainer/devcontainer.json
+#	deleted:    hello_world/.vscode/c_cpp_properties.json
+#	deleted:    hello_world/.vscode/launch.json
+#	deleted:    hello_world/.vscode/settings.json
+#	deleted:    hello_world/.vscode/tasks.json
+#	deleted:    hello_world/CMakeLists.txt
+#	deleted:    hello_world/Makefile
+#	deleted:    hello_world/README.md
+#	deleted:    hello_world/example_test.py
+#	deleted:    hello_world/main/CMakeLists.txt
+#	deleted:    hello_world/main/component.mk
+#	deleted:    hello_world/main/hello_world_main.c
